@@ -17,14 +17,12 @@
 <h2 align="center">GitHub Stats</h2>
 <div align="center">
 <img alt="burakaoksuz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=burakaoksuz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-<br>
+<hr><br>
 <img alt="burakaoksuz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakaoksuz&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-<br>
+<hr><br>
 <img alt="burakaoksuz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=burakaoksuz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-<br>
-<br>
+<hr><br><br>
 <img src="https://komarev.com/ghpvc/?username=burakaoksuz">
 <br>
 <img src="https://img.shields.io/github/followers/burakaoksuz?label=Followers&style=social" alt="GitHub Badge">
 </div>
-<p></p>
