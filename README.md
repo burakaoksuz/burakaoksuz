@@ -10,11 +10,6 @@
 <h2 align="center">Skills</h2>
 <div align="center">
     <p>Most using <b>programming languages, frameworks</b></p>
-    <ul style="list-style: none">
-        <li>Python</li>
-        <li>JavaScript (node.js)</li>
-        <li>Svelte</li>
-        <li>TailwindCSS</li>
-    </ul>
+    <p align="center">Python<br>JavaScript (node.js)<br>Svelte<br>TailwindCSS</p>
 </div>
 <p></p>
