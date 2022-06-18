@@ -14,4 +14,8 @@
     <p><b>Currently learning programming languages</b></p>
     <p align="center">C++<br>Go<br>Rust<br>and more.</p>
 </div>
+<h2 align="center">GitHub Stats</h2>
+<div>
+<img alt="burakaoksuz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=burakaoksuz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+</div>
 <p></p>
