@@ -9,10 +9,9 @@
 </div>
 <h2 align="center">Skills</h2>
 <div align="center">
-    <p>Most using <b>programming languages, frameworks</b></p>
+    <p><b>Most using programming languages, frameworks</b></p>
     <p align="center">Python<br>JavaScript (node.js)<br>Svelte<br>TailwindCSS</p>
-    <hr>
-    <p>Currently learning programming languages</p>
+    <p><b>Currently learning programming languages</b></p>
     <p align="center">C++<br>Go<br>Rust<br>and more.</p>
 </div>
 <p></p>
