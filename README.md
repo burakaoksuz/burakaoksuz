@@ -1,5 +1,5 @@
-<h1 align="center">Burak ÖKSÜZ</h1>
-<p align="center" style="font-size: xxl;">A software developer who likes to do research, constantly improves himself, and does small-scale projects.</p>
+<h1 align="center">Burak ÖKSÜZ 🙌</h1>
+<p align="center" style="font-size: xxl;">💻 A software developer who likes to do research, constantly improves himself, and does small-scale projects.</p>
 <br>
 <h2 align="center">Contact</h2>
 <div align="center">
@@ -9,9 +9,9 @@
 </div>
 <h2 align="center">Skills</h2>
 <div align="center">
-    <p><b>Most using programming languages, frameworks</b></p>
+    <p><b>👌 Most using programming languages, frameworks</b></p>
     <p align="center">Python<br>JavaScript (node.js)<br>Svelte<br>TailwindCSS</p>
-    <p><b>Currently learning programming languages</b></p>
+    <p><b>👀 Currently learning programming languages</b></p>
     <p align="center">C++<br>Go<br>Rust<br>and more.</p>
 </div>
 <h2 align="center">GitHub Stats</h2>
