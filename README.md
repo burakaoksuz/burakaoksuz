@@ -15,8 +15,9 @@
     <p align="center">C++<br>Go<br>Rust<br>and more.</p>
 </div>
 <h2 align="center">GitHub Stats</h2>
-<div>
+<div align="center">
 <img alt="burakaoksuz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=burakaoksuz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-    <img style="float: right;" alt="burakaoksuz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakaoksuz&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<br>
+<img alt="burakaoksuz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakaoksuz&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </div>
 <p></p>
