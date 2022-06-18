@@ -1,5 +1,5 @@
 <h1 align="center">Burak ÖKSÜZ</h1>
-<p style="font-size: xxl;">A software developer who likes to do research, constantly improves himself, and does small-scale projects.</p>
+<p align="center" style="font-size: xxl;">A software developer who likes to do research, constantly improves himself, and does small-scale projects.</p>
 <br>
 <h2>Contact</h2>
 <div align="center">
