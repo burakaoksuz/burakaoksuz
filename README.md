@@ -11,5 +11,8 @@
 <div align="center">
     <p>Most using <b>programming languages, frameworks</b></p>
     <p align="center">Python<br>JavaScript (node.js)<br>Svelte<br>TailwindCSS</p>
+    <hr>
+    <p>Currently learning programming languages</p>
+    <p align="center">C++<br>Go<br>Rust<br>and more.</p>
 </div>
 <p></p>
