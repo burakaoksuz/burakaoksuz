@@ -3,7 +3,7 @@
 <br>
 <h2 align="center">Contact</h2>
 <div align="center">
-    <a href="https://discord.com/users/987659313935953950" style="margin-right: 5px;" target="_blank"><img src="https://shields.io/badge/Discord-111111.svg?&style=for-the-badge&logo=discord"</a>
+    <a href="https://discord.com/users/987659313935953950" target="_blank"><img src="https://shields.io/badge/Discord-111111.svg?&style=for-the-badge&logo=discord"</a>
     <a href="mailto:arwell@duck.com"><img src="https://shields.io/badge/MAIL-ffa136.svg?&style=for-the-badge&logo=gmail"/></a>
 </div>
 <p></p>
